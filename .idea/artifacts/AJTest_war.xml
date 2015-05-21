@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="war" build-on-make="true" name="AJTest:war">
+  <artifact type="war" name="AJTest:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="AJTest.war">
       <element id="artifact" artifact-name="AJTest:war exploded" />
